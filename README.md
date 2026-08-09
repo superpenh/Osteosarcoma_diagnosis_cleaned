@@ -456,21 +456,7 @@ Accuracy  |  AUC  |  Sensitivity  |  Specificity  |  Precision  |  NPV  |  F1
 │   └── dataset_loader.py                        # Ablation-specific dataset loader
 ```
 
----
 
-## Citation
-
-```bibtex
-@article{your_paper_title,
-  title={Clinical-pathway-aware AI support for osteosarcoma diagnosis from referral triage to clinical--radiographic--pathologic review},
-  author={[Author Names]},
-  journal={[Journal Name]},
-  year={2026},
-  note={Code available at: https://github.com/superpenh/Osteosarcoma_diagnosis_cleaned.git}
-}
-```
-
----
 
 ## Acknowledgements
 

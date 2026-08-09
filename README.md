@@ -462,11 +462,11 @@ Accuracy  |  AUC  |  Sensitivity  |  Specificity  |  Precision  |  NPV  |  F1
 
 ```bibtex
 @article{your_paper_title,
-  title={Modality-adaptive artificial intelligence for osteosarcoma diagnosis},
+  title={Clinical-pathway-aware AI support for osteosarcoma diagnosis from referral triage to clinical--radiographic--pathologic review},
   author={[Author Names]},
   journal={[Journal Name]},
   year={2026},
-  note={Code available at: https://github.com/your_username/Osteosarcoma_diagnosis}
+  note={Code available at: https://github.com/superpenh/Osteosarcoma_diagnosis_cleaned.git}
 }
 ```
 

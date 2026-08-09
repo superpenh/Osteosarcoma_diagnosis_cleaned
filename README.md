@@ -21,7 +21,7 @@ The system achieves robust performance through a dual-branch architecture: the *
 
 ```bash
 git clone https://github.com/superpenh/Osteosarcoma_diagnosis_cleaned.git
-cd Osteosarcoma_diagnosis(cleaned)
+cd Osteosarcoma_diagnosis_cleaned
 ```
 
 ### 2. Create Virtual Environment

@@ -17,10 +17,10 @@ The system achieves robust performance through a dual-branch architecture: the *
 
 ## Installation
 
-### 1. Clone the Repository(待上传至github)
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your_username/Osteosarcoma_diagnosis.git
+git clone https://github.com/superpenh/Osteosarcoma_diagnosis_cleaned.git
 cd Osteosarcoma_diagnosis(cleaned)
 ```
 

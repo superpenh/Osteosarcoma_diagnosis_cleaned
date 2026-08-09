@@ -1,0 +1,34 @@
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Data & Models
+data/
+checkpoints/
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs & Outputs
+*.log
+*.png
+*.jpg
+!framework.png
+
+# Misc
+.DS_Store
+.remote-sync.json
+wandb/

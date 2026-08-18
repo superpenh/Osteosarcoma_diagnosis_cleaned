@@ -44,9 +44,10 @@ pip install -r requirements.txt
 ```
 
 
-### 4. Download Pretrained Weights(待上传)
+### 4. Download Pretrained Weights
 
 Pretrained models are stored at :
+The model weights are available via this Baidu Cloud link: [https://pan.baidu.com/s/15G4WFGmLOH_ortMvYIQL_w?pwd=1cjz 提取码: 1cjz]
 
 ```
 radiology/pretrained_weights/        # BERT model files
